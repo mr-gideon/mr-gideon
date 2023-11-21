@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+My name is Blake Gideon, and I teach computer science at The Latin School of Chicago!
+
+- 🔭 I’m currently working on integrating AI development tools into computer science curriculum
 
 <!--
 **mr-gideon/mr-gideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
